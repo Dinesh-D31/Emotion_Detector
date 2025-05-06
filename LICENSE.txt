@@ -1,0 +1,15 @@
+All Rights Reserved
+
+Copyright (c) 2025 Dinesh
+
+This project and its contents are protected by copyright law and international treaties. Unauthorized reproduction, distribution, modification, or use of this software, in whole or in part, is strictly prohibited without the express written permission of the author.
+
+This includes, but is not limited to:
+- Source code
+- Models and data
+- Streamlit application
+- Documentation
+- Visual assets
+
+For usage rights, licensing, or collaboration opportunities, 
+contact: dineshd9822@gmail.com

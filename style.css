@@ -1,0 +1,21 @@
+/* Background */
+body {
+    background-image: linear-gradient(to right, #e0eafc, #cfdef3);
+}
+
+/* Text */
+h1, p, label, textarea {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Button */
+button {
+    background-color: #6C63FF;
+    color: white;
+    font-weight: bold;
+}
+
+/* Footer */
+footer {
+    margin-top: 50px;
+}
