@@ -16,8 +16,8 @@ with open("style.css") as f:
 
 # Load Model, Vectorizer and Label Binarizer
 model = joblib.load("emotion_classifier_model.pkl")
-vectorizer = joblib.load("C:/Users/Asus/Documents/projects/tfidf_vectorizer.pkl")
-mlb = joblib.load('C:/Users/Asus/Documents/projects/mlb.pkl') 
+vectorizer = joblib.load("tfidf_vectorizer.pkl")
+mlb = joblib.load('mlb.pkl') 
 
 # Title
 st.markdown("""
