@@ -15,7 +15,7 @@ with open("style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Load Model, Vectorizer and Label Binarizer
-model = joblib.load('C:/Users/Asus/Documents/projects/emotion_classifier_model.pkl')
+model = joblib.load("emotion_classifier_model.pkl")
 vectorizer = joblib.load("C:/Users/Asus/Documents/projects/tfidf_vectorizer.pkl")
 mlb = joblib.load('C:/Users/Asus/Documents/projects/mlb.pkl') 
 
