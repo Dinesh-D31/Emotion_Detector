@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # Load Custom CSS
-with open("C:/Users/Asus/Documents/projects/style.css") as f:
+with open("style.css") as f:
     st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
 
 # Load Model, Vectorizer and Label Binarizer
